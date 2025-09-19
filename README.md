@@ -22,7 +22,6 @@ The core of this project is a **structured, data-driven approach to sustainable 
 
 
 ## 🏗️ Work Breakdown Structure (WBS)
-
   * **Tool Setup**: Provide interns with a ready-to-use digital tracker (e.g., Google Sheets).
   * **Habit Selection**: Each participant chooses 3-5 personal sustainable habits to track.
   * **Daily Logging**: Interns consistently record their actions throughout the internship.
@@ -53,6 +52,5 @@ This challenge has the potential to become a **recurring activity** for future i
 
 This is a collaborative project. To view or contribute to the source code, you can access the repository at the provided GitHub URL. The public dashboard and data tracker will be made accessible to all participants for a transparent and collaborative experience.
 
------
 
 \*\**All rights reserved to **1M1B***
