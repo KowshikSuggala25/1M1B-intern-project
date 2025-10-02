@@ -44,7 +44,7 @@ This challenge has the potential to become a **recurring activity** for future i
 
 ## 💻 Tech Stack and URL
 
-  * **Public URL**: [https://KowshikSuggala25.github.io/1M1B-intern-project](https://www.google.com/search?q=https://KowshikSuggala25.github.io/1M1B-intern-project) (Sample URL)
+  * **Public URL**: [https://carbon-reduction-challenge.onrender.com](https://carbon-reduction-challenge.onrender.com) (Sample URL)
   * **Technology**: The project primarily leverages **HTML**, **CSS**, and **JavaScript** for the web interface and **Google Sheets** for the data tracking and storage.
 
 
